@@ -32,7 +32,7 @@ nav a:hover{
 
 /* Challenge 11: Make the font size bigger and the color of the text to blue for elements with a class of "main" */
 .main{
-    font-size:20px;
+    font-size:100px;
     color:blue;
 }
 
